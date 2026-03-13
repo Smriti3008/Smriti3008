@@ -25,6 +25,8 @@
 ![EDA Playground](https://img.shields.io/badge/EDA-Playground-orange?style=for-the-badge)
 
 ### Programming
+![Verilog](https://img.shields.io/badge/Verilog-RTL-blue?style=for-the-badge&logo=v&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-Verification-9B59B6?style=for-the-badge&logo=v&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Protocols & Concepts
@@ -50,8 +52,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Smriti3008&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smriti3008&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 ---
@@ -70,7 +72,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Smriti3008&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </div>
 
 <div align="center">
