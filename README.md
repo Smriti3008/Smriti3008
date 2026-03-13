@@ -36,18 +36,6 @@
 - ✅ SRAM / DRAM Interfaces
 - ✅ Digital VLSI Design Flow
 
----
-
-## 🚀 Projects
-
-### 🔲 Systolic Array MAC Accelerator
-> A complete RTL implementation of a Systolic Array based Matrix Multiply Accumulate accelerator
-- **Modules:** HOST, CSR, IFU, IDU, DFU, Systolic Array
-- **Bus Protocols:** APB (HOST↔CSR), AXI (data path)
-- **Features:** 32×32 tile computation, SRAM A0/B0 banks, interrupt driven flow
-- **Tools:** Verilog, EDA Playground, Icarus Verilog
-
----
 
 ## 📊 GitHub Stats
 
