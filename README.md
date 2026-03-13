@@ -1,7 +1,7 @@
 # Hi there, I'm Smriti Subramaniam! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Final+Year+ECE+%26+VLSI+Student;RTL+Design+%7C+Digital+Design;Systolic+Array+%7C+MAC+Accelerator;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Final+Year+ECE+%26+VLSI+Student;RTL+Design+%7C+Digital+Design;IoT+%7C+Cache+Memory+%7C+Embedded+Systems;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
@@ -11,7 +11,7 @@
 - 🎓 Final Year Student — **Electronics & VLSI Design and Technology**
 - 🏫 **Bangalore Institute of Technology**, Bangalore
 - 💡 Passionate about **RTL Design, Digital Systems & Chip Architecture**
-- 🔭 Currently working on a **Systolic Array MAC Accelerator**
+- 🔭 Currently exploring **RTL Design & VLSI Architectures**
 - 📫 Reach me at: **theppss3006@gmail.com**
 
 ---
@@ -30,12 +30,43 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Protocols & Concepts
-- ✅ APB | AXI Bus Protocols
+- ✅ Cache Memory Architecture
 - ✅ FSM Design
-- ✅ Systolic Arrays & MAC Units
-- ✅ SRAM / DRAM Interfaces
 - ✅ Digital VLSI Design Flow
+- ✅ Embedded Systems & IoT
+- ✅ SRAM / DRAM Interfaces
 
+---
+
+## 💼 Experience
+
+### 🏢 VLSI / Digital Design Intern — Aisemi Private Limited
+📍 Miyapur, Hyderabad | ⏳ Ongoing (6 Months)
+- Executing digital design and hardware modeling using Verilog HDL
+- Implementing sequential logic circuits — flip-flops, shift registers, counters, frequency dividers
+- Developing testbenches for functional verification and logic debugging
+- Hands-on exposure to VLSI-based logic design workflows
+
+---
+
+
+
+### 🐾 IoT-Enabled Automated Pet Feeding System
+> Major Project 2025-26 | IoT + VLSI Design
+- **Hardware:** ESP32, IR Sensor, Load Cell, DC Motor, Water Pump
+- **VLSI:** Feeding Timer Module in Verilog HDL, verified using Cadence
+- **Features:** Telegram Bot notifications, real-time monitoring
+- **Results:** Power ≈ 4.2 µW, Timing Slack +6933 ps ✅
+- **Tools:** Verilog, Cadence Virtuoso, Arduino IDE
+
+### 🧠 Cache Memory Design
+> Mini Project 2024-25 | Memory Architecture
+- **Implemented:** Direct, 2-Way, 4-Way, 8-Way set associative mapping
+- **Features:** Configurable Way Controller Unit, Hit/Miss detection
+- **Memory:** 512KB Cache ↔ 512MB Main Memory, 64B block size
+- **Tools:** Verilog HDL, Xilinx ISE
+
+---
 
 ## 📊 GitHub Stats
 
