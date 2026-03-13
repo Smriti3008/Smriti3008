@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi there, I'm Smriti Subramaniam! 👋
 
-<!--
-**Smriti3008/Smriti3008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Final+Year+ECE+%26+VLSI+Student;RTL+Design+%7C+Digital+Design;Systolic+Array+%7C+MAC+Accelerator;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 Final Year Student — **Electronics & VLSI Design and Technology**
+- 🏫 **Bangalore Institute of Technology**, Bangalore
+- 💡 Passionate about **RTL Design, Digital Systems & Chip Architecture**
+- 🔭 Currently working on a **Systolic Array MAC Accelerator**
+- 📫 Reach me at: **theppss3006@gmail.com**
+
+---
+
+## 🛠️ Skills & Tools
+
+### Hardware Design
+![Verilog](https://img.shields.io/badge/Verilog-RTL%20Design-blue?style=for-the-badge&logo=v&logoColor=white)
+![Xilinx](https://img.shields.io/badge/Xilinx-ISE-red?style=for-the-badge&logo=xilinx&logoColor=white)
+![Cadence](https://img.shields.io/badge/Cadence-Virtuoso%20%7C%20Innovus-green?style=for-the-badge)
+![EDA Playground](https://img.shields.io/badge/EDA-Playground-orange?style=for-the-badge)
+
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Protocols & Concepts
+- ✅ APB | AXI Bus Protocols
+- ✅ FSM Design
+- ✅ Systolic Arrays & MAC Units
+- ✅ SRAM / DRAM Interfaces
+- ✅ Digital VLSI Design Flow
+
+---
+
+## 🚀 Projects
+
+### 🔲 Systolic Array MAC Accelerator
+> A complete RTL implementation of a Systolic Array based Matrix Multiply Accumulate accelerator
+- **Modules:** HOST, CSR, IFU, IDU, DFU, Systolic Array
+- **Bus Protocols:** APB (HOST↔CSR), AXI (data path)
+- **Features:** 32×32 tile computation, SRAM A0/B0 banks, interrupt driven flow
+- **Tools:** Verilog, EDA Playground, Icarus Verilog
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+  <a href="mailto:theppss3006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views"/>
+</div>
+
+<div align="center">
+  ⚡ <i>"Designing the future, one gate at a time."</i> ⚡
+</div>
